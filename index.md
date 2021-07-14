@@ -13,5 +13,5 @@ My name is Zhizheng Yang(杨之正). I am a master student in the department of 
 - 2017.9 - 2021.7: B.S., School of Computer, Northwestern Polytechnical University, Xi’an, Shaanxi, China.
 
 ### Contact
-- Email:302949125@qq.com
-- Address:Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China
+- Email: 302949125@qq.com
+- Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China
