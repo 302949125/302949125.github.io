@@ -1,7 +1,7 @@
 ## Zhizheng Yang
 
 ### Biography
-My name is Zhizheng Yang(杨之正).I am a master student in the department of computer science, Nanjing Univerisity. I am supervised by Associate Professor Haipeng Dai.
+My name is Zhizheng Yang(杨之正). I am a master student in the department of computer science, Nanjing Univerisity. I am supervised by Associate Professor Haipeng Dai.
 
 ### Research Interests
 - Mobile Computing
