@@ -9,7 +9,7 @@ My name is Zhizheng Yang(杨之正).I am a master student in the department of c
 - Machine Learning
 
 ### Education
-- 2021.9-Present: M.s. (without entrance examination), Department of Computer Science and Technology, Nanjing University, Nanjing, Jiangsu, China.\
+- 2021.9-Present: M.s. (without entrance examination), Department of Computer Science and Technology, Nanjing University, Nanjing, Jiangsu, China.
 - 2017.9-2021.7: B.E., School of Computer, Northwestern Polytechnical University, Xi’an, Shaanxi, China.
 
 ### Contact
